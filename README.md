@@ -1,6 +1,12 @@
 # Splitsi
 
-A bill splitting app, a group project by Linah Jarad, Zhiqi Xie, Victor Shi, and Brendan Bain (Duplicate repo, my commits were performed from different Github account for school purposes)
+A bill splitting app (Duplicate repo, my commits were performed from different Github account for school purposes)
+
+A Group project by: 
+- Linah Jarad
+- Zhiqi Xie
+- Victor Shi
+- Brendan Bain 
 
 ## Getting Started
 
