@@ -55,10 +55,10 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyA5fjbPHLOU6Gabv5eUvVAFGpWiO5b91Xo',
-    appId: '1:1080272216160:web:4dd3f48be653fd4a08a305',
-    messagingSenderId: '1080272216160',
-    projectId: 'splitsi-3e71f',
+    apiKey: '_____________________',
+    appId: '_______________________',
+    messagingSenderId: '_________',
+    projectId: '_______',
     authDomain: 'splitsi-3e71f.firebaseapp.com',
     storageBucket: 'splitsi-3e71f.appspot.com',
   );
